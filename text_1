@@ -5,5 +5,5 @@ int main(){
   cout<<"I want to play LOL in the evening!"<<endl;
   cout<<"I also wanna sleep after playing"<<endl;
   return 0;
-  
 }
+//我不知道为啥不能查历史啊？
