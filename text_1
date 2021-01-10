@@ -3,5 +3,7 @@
 using namespace std;
 int main(){
   cout<<"I want to play LOL in the evening!"<<endl;
+  cout<<"I also wanna sleep after playing"<<endl;
   return 0;
+  
 }
