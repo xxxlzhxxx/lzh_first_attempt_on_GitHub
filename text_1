@@ -1,0 +1,7 @@
+//Today is January 10st.
+#include <iostream>
+using namespace std;
+int main(){
+  cout<<"I want to play LOL in the evening!"<<endl;
+  return 0;
+}
